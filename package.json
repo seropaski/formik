@@ -6,7 +6,7 @@
     "@changesets/cli": "^2.10.3",
     "@types/jest": "^26.0.14",
     "cypress": "^5.2.0",
-    "got": "10.0.4",
+    "got": "11.8.5",
     "husky": "^4.3.0",
     "lerna": "^3.19.0",
     "lint-staged": "^10.4.0",
